@@ -153,6 +153,6 @@ Possible enhancements include:
 ---
 
 ## Author
-**Niharika Reddy**
+**Niharika Reddem**
 
 Machine Learning Internship Project – Future Interns (2026)
